@@ -61,3 +61,5 @@ const CoCreateUUID = {
 }
 
 CoCreateUUID.init();
+
+export default CoCreateUUID;
