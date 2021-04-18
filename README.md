@@ -9,7 +9,7 @@ A simple uuid component in vanilla javascript. Easily configured using HTML5 dat
 
 ![CoCreate-uuid](https://cdn.cocreate.app/docs/CoCreate-uuid.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/clone)
+## [Docs & Demo](https://cocreate.app/docs/uuid)
 
 For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/uuid)
 
