@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.3...v1.0.4) (2021-04-27)
+
+
+### Bug Fixes
+
+* Update to readme, demo, added cdn scripts ([3d296be](https://github.com/CoCreate-app/CoCreate-uuid/commit/3d296be597f28e81dbc2dd5984b7a93d436f4e23))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.2...v1.0.3) (2021-04-23)
 
 
