@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.6...v1.0.7) (2021-06-17)
+
+
+### Bug Fixes
+
+* added header for seo ([1577356](https://github.com/CoCreate-app/CoCreate-uuid/commit/1577356c1070e48120a06f130e6bf5f13c2500ed))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.5...v1.0.6) (2021-05-08)
 
 
