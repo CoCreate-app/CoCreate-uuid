@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.10...v1.0.11) (2021-06-30)
+
+
+### Bug Fixes
+
+* automated and manual workflows ([867c816](https://github.com/CoCreate-app/CoCreate-uuid/commit/867c81672d635f8d5c4ed086daa008161307d419))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.9...v1.0.10) (2021-06-25)
 
 
