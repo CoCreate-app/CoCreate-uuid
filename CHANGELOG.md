@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.13...v1.0.14) (2021-07-10)
+
+
+### Bug Fixes
+
+* gitignore all logs ([4318a77](https://github.com/CoCreate-app/CoCreate-uuid/commit/4318a775a1b9776ea4d8e51f906227c5c263fae3))
+
 ## [1.0.13](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.12...v1.0.13) (2021-07-07)
 
 
