@@ -1,3 +1,18 @@
+## [1.0.16](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.15...v1.0.16) (2021-07-14)
+
+
+### Bug Fixes
+
+* upgrade all packages ([a31e31e](https://github.com/CoCreate-app/CoCreate-uuid/commit/a31e31ef7637318392821945d6788b86742522fc))
+
+## [1.0.15](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.14...v1.0.15) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([cf560ad](https://github.com/CoCreate-app/CoCreate-uuid/commit/cf560adce5514f9f4303c0be41c78c117f4823fd))
+* remove yarn.lock ([df23d7f](https://github.com/CoCreate-app/CoCreate-uuid/commit/df23d7ffd5adfe6ab35395c65492f2c0cd8aebea))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.0.13...v1.0.14) (2021-07-10)
 
 
