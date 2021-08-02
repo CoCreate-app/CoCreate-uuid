@@ -1,6 +1,4 @@
 
-
-
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
         define([], function() {
@@ -14,7 +12,7 @@
 }(typeof self !== 'undefined' ? self : this, function (wnd) {
   
   const CoCreateUUID = {
-    attribute: 'data-uuid',
+    attribute: 'uuid',
   
     init: function(container) {
       if (!wnd.document) return;
