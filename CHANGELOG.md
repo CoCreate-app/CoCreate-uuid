@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.2...v1.1.3) (2021-08-14)
+
+
+### Bug Fixes
+
+* replace data-transform with toggle ([2b27905](https://github.com/CoCreate-app/CoCreate-uuid/commit/2b27905b54801a79641ca6d97e546f18b06dc278))
+* update to  docs ([9f5acb4](https://github.com/CoCreate-app/CoCreate-uuid/commit/9f5acb44704d64895d0ffb1d4fb9aee856019ae6))
+
 ## [1.1.2](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.1...v1.1.2) (2021-08-02)
 
 
