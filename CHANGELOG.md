@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.15...v1.1.16) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([e40bf45](https://github.com/CoCreate-app/CoCreate-uuid/commit/e40bf45672d2b597e62049d554fa07e53e4d9b4e))
+
 ## [1.1.15](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.14...v1.1.15) (2021-09-09)
 
 
