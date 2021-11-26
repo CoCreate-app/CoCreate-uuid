@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([046f462](https://github.com/CoCreate-app/CoCreate-uuid/commit/046f4626ccf450f8d1c9062e83b79f6c00b8d87e))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
