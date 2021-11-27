@@ -1,3 +1,10 @@
+## [1.1.48](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.47...v1.1.48) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([43d0369](https://github.com/CoCreate-app/CoCreate-uuid/commit/43d03692b0482e102f99e94d7c7b0243a8cac146))
+
 ## [1.1.47](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.46...v1.1.47) (2021-11-26)
 
 
