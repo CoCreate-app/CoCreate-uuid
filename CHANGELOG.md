@@ -1,3 +1,10 @@
+## [1.1.52](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.51...v1.1.52) (2021-12-15)
+
+
+### Bug Fixes
+
+* update dependencies ([0dbb840](https://github.com/CoCreate-app/CoCreate-uuid/commit/0dbb840a577feb2f170d80c789f1cd0f7c5e790c))
+
 ## [1.1.51](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.50...v1.1.51) (2021-12-14)
 
 
