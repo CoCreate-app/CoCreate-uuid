@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.52...v1.1.53) (2021-12-24)
+
+
+### Bug Fixes
+
+* add action deleteDocuments ([953d801](https://github.com/CoCreate-app/CoCreate-uuid/commit/953d801463168afa9ef0473d4fbf8b9aaa8f910f))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.51...v1.1.52) (2021-12-15)
 
 
