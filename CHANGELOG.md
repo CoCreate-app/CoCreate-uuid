@@ -1,3 +1,10 @@
+## [1.1.55](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.54...v1.1.55) (2022-01-16)
+
+
+### Bug Fixes
+
+* update class overflow:overlay to overflow:auto ([0a0bdfb](https://github.com/CoCreate-app/CoCreate-uuid/commit/0a0bdfb3794b10930604b0fdbf27a6ddcac59655))
+
 ## [1.1.54](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.53...v1.1.54) (2022-01-01)
 
 
