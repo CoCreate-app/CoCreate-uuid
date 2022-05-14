@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.62...v1.2.0) (2022-05-14)
+
+
+### Features
+
+* function readDocumentList has been renamed to readDocuments ([d9aeeaa](https://github.com/CoCreate-app/CoCreate-uuid/commit/d9aeeaa560b22cbbf858a38ed1d6ed95b3c2c0c3))
+
 ## [1.1.62](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.61...v1.1.62) (2022-05-06)
 
 
