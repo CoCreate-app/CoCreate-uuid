@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.0...v1.2.1) (2022-05-17)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([b1375ad](https://github.com/CoCreate-app/CoCreate-uuid/commit/b1375ad69910527080337c4af2640e9228b9ed24))
+
 # [1.2.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.1.62...v1.2.0) (2022-05-14)
 
 
