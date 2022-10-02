@@ -1,3 +1,10 @@
+## [1.2.17](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.16...v1.2.17) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump dependencies ([4d3ef40](https://github.com/CoCreate-app/CoCreate-uuid/commit/4d3ef40ac7852cbd46949f5c53a54e63489b5218))
+
 ## [1.2.16](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.15...v1.2.16) (2022-10-02)
 
 
