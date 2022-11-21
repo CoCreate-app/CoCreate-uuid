@@ -1,3 +1,10 @@
+## [1.2.21](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.20...v1.2.21) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([589f85a](https://github.com/CoCreate-app/CoCreate-uuid/commit/589f85ab7e7bfd8ce4b90b7d31110df1ede42281))
+
 ## [1.2.20](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.19...v1.2.20) (2022-11-21)
 
 
