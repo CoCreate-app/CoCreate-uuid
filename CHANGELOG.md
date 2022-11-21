@@ -1,3 +1,10 @@
+## [1.2.22](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.21...v1.2.22) (2022-11-21)
+
+
+### Bug Fixes
+
+* @cocreate/docs bug fix ([6910584](https://github.com/CoCreate-app/CoCreate-uuid/commit/6910584e6e44bfa615b9822f3f38dad09a2daa00))
+
 ## [1.2.21](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.20...v1.2.21) (2022-11-21)
 
 
