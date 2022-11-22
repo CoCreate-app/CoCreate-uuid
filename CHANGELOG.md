@@ -1,3 +1,11 @@
+## [1.2.23](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.22...v1.2.23) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([e319c61](https://github.com/CoCreate-app/CoCreate-uuid/commit/e319c61880dcea1ffcc22d86b8c04278eb98c1b2))
+* workflow docs ([d70b840](https://github.com/CoCreate-app/CoCreate-uuid/commit/d70b840ca9fc0e1860989b89263cfa20fd405b55))
+
 ## [1.2.22](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.21...v1.2.22) (2022-11-21)
 
 
