@@ -62,7 +62,7 @@
       
       let uuid = pattern.replace(/[xy]/g, function(c) {
           var r = Math.random() * 16;
-          if(d > 0){
+          if (d > 0){
               var r = (d + r)%16 | 0;
               d = Math.floor(d/16);
           } else {
