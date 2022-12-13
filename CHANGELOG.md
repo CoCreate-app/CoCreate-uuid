@@ -1,3 +1,10 @@
+## [1.2.40](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.39...v1.2.40) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([5a2710f](https://github.com/CoCreate-app/CoCreate-uuid/commit/5a2710fa5f322254e74d967116ff775d998c00fd))
+
 ## [1.2.39](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.38...v1.2.39) (2022-12-13)
 
 
