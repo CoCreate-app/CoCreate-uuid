@@ -1,3 +1,10 @@
+## [1.2.41](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.40...v1.2.41) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([c830e34](https://github.com/CoCreate-app/CoCreate-uuid/commit/c830e3482ed48636a2c75338a002dfacf6656899))
+
 ## [1.2.40](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.39...v1.2.40) (2022-12-13)
 
 
