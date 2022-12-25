@@ -1,3 +1,11 @@
+## [1.2.47](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.46...v1.2.47) (2022-12-25)
+
+
+### Bug Fixes
+
+* bump dependencies ([22167df](https://github.com/CoCreate-app/CoCreate-uuid/commit/22167df8a371e713bc74c57bd6a61d41d7a071b6))
+* type="modal" and pass_to updated to action="pass, openModal" ([906b77e](https://github.com/CoCreate-app/CoCreate-uuid/commit/906b77eec25919798578e4db899d32088b6d5ccd))
+
 ## [1.2.46](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.45...v1.2.46) (2022-12-23)
 
 
