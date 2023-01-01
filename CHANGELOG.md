@@ -1,3 +1,10 @@
+## [1.2.52](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.51...v1.2.52) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([86a0f6f](https://github.com/CoCreate-app/CoCreate-uuid/commit/86a0f6ff1cb719a12d772b86ee73cadec83cde92))
+
 ## [1.2.51](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.50...v1.2.51) (2022-12-31)
 
 
