@@ -1,3 +1,11 @@
+## [1.2.53](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.52...v1.2.53) (2023-01-05)
+
+
+### Bug Fixes
+
+* bump cdn to 1.39.4 ([53f35e0](https://github.com/CoCreate-app/CoCreate-uuid/commit/53f35e0bf080418c849c0af5c391e1c102b7be81))
+* bump dependencies ([67223f4](https://github.com/CoCreate-app/CoCreate-uuid/commit/67223f437ea4b7bea1e9c4e75e1d003462f21a36))
+
 ## [1.2.52](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.51...v1.2.52) (2023-01-01)
 
 
