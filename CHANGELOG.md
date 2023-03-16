@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.62...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([5e5f7c0](https://github.com/CoCreate-app/CoCreate-uuid/commit/5e5f7c08a774effda8bd827c29bdf14dae598635))
+
 ## [1.2.62](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.2.61...v1.2.62) (2023-02-01)
 
 
