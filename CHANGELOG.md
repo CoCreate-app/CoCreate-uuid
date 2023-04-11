@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.3.3...v1.3.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domans to hosts ([8c8aad7](https://github.com/CoCreate-app/CoCreate-uuid/commit/8c8aad71c7a4494b569f480c8a3d9ea247f4ac39))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.3.2...v1.3.3) (2023-03-30)
 
 
