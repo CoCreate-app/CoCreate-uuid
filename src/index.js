@@ -45,7 +45,7 @@
       let pattern = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';
       
       if (length <= pattern.length) {
-        pattern = pattern.substr(0, length);
+        pattern = pattern.substring(0, length);
       } else {
         let add_len = length - pattern.length;
         let sub_pattern = "-xxxyyxxx";
@@ -57,7 +57,7 @@
         }
         
         group_n = add_len - group_n * sub_pattern.length;
-        pattern += sub_pattern.substr(0, group_n);
+        pattern += sub_pattern.substring(0, group_n);
       }
       
       let uuid = pattern.replace(/[xy]/g, function(c) {
