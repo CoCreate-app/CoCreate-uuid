@@ -1,3 +1,10 @@
+## [1.3.7](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.3.6...v1.3.7) (2023-04-13)
+
+
+### Bug Fixes
+
+* replaced substr with substring ([f9cbd0d](https://github.com/CoCreate-app/CoCreate-uuid/commit/f9cbd0de7a139d73dcf0a3cf4fbbbe5a0b594684))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.3.5...v1.3.6) (2023-04-11)
 
 
