@@ -1,3 +1,11 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.2...v1.4.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([305df38](https://github.com/CoCreate-app/CoCreate-uuid/commit/305df383f0772b52f31db157a47f6198b551e75a))
+* workflow node version updated  16 ([92a823d](https://github.com/CoCreate-app/CoCreate-uuid/commit/92a823d5c427d9a2323461f69b30f164a9b0cd4f))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.1...v1.4.2) (2023-04-24)
 
 
