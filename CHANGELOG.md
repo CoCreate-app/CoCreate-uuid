@@ -1,3 +1,10 @@
+## [1.4.7](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.6...v1.4.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* replaced icon toggles with new svg ([354bea5](https://github.com/CoCreate-app/CoCreate-uuid/commit/354bea537dd9c8004e0d9a647bd51744fb467fd9))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.5...v1.4.6) (2023-05-01)
 
 
