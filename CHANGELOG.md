@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.8...v1.4.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([3076142](https://github.com/CoCreate-app/CoCreate-uuid/commit/307614210783285127e7114b6fe3a9ecc7e331bd))
+
 ## [1.4.8](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.7...v1.4.8) (2023-05-06)
 
 
