@@ -1,3 +1,11 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.11...v1.4.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* formating ([4d131af](https://github.com/CoCreate-app/CoCreate-uuid/commit/4d131af6ec386d8a1ae0e6be2fbfa2fbb7e583e5))
+* **semantic-release:** worklow error solved by running node version 14 ([ab280e9](https://github.com/CoCreate-app/CoCreate-uuid/commit/ab280e94b2c052012941ae5c82ac9f9ce76fac00))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.10...v1.4.11) (2023-05-21)
 
 
