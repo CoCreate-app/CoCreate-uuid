@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* [@v3](https://github.com/v3) ([2346fac](https://github.com/CoCreate-app/CoCreate-uuid/commit/2346fac3c840394cc89cc19a52611ba174b6e24d))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.11...v1.4.12) (2023-06-04)
 
 
