@@ -1,3 +1,10 @@
+## [1.4.20](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.19...v1.4.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([97e6eab](https://github.com/CoCreate-app/CoCreate-uuid/commit/97e6eabf963c00c1909d75d8dfea41edc183fbcf))
+
 ## [1.4.19](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.18...v1.4.19) (2023-06-11)
 
 
