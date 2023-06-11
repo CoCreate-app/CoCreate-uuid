@@ -1,3 +1,10 @@
+## [1.4.17](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.16...v1.4.17) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([cf971bd](https://github.com/CoCreate-app/CoCreate-uuid/commit/cf971bd708ffc60a036af8845113df85654d2fd2))
+
 ## [1.4.16](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.15...v1.4.16) (2023-06-10)
 
 
