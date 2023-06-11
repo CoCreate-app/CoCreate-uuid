@@ -1,3 +1,10 @@
+## [1.4.24](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.23...v1.4.24) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([24160ee](https://github.com/CoCreate-app/CoCreate-uuid/commit/24160ee6caafa7fbcc44d25e82cd151796ebef26))
+
 ## [1.4.23](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.22...v1.4.23) (2023-06-11)
 
 
