@@ -1,3 +1,10 @@
+## [1.4.28](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.27...v1.4.28) (2023-06-14)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([a474139](https://github.com/CoCreate-app/CoCreate-uuid/commit/a4741399b68df4c4ff9c9be38c6b76f4cb483d79))
+
 ## [1.4.27](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.26...v1.4.27) (2023-06-11)
 
 
