@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.5.0...v1.6.0) (2023-08-17)
+
+
+### Features
+
+* bump cocreate dependencies for the latest updates and features ([4699ad3](https://github.com/CoCreate-app/CoCreate-uuid/commit/4699ad33659d0005ed125ae289cffb0c7f63cbcb))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.4.28...v1.5.0) (2023-08-16)
 
 
