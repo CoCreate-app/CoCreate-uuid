@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([eb994b5](https://github.com/CoCreate-app/CoCreate-uuid/commit/eb994b5f0a3d57b820f241c9bb324d266adccce8))
+* Update dCoCreate dpendencies to latest versions ([47932a7](https://github.com/CoCreate-app/CoCreate-uuid/commit/47932a76fe00004a20db286d4bdb53de963695a3))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.0...v1.7.1) (2023-08-21)
 
 
