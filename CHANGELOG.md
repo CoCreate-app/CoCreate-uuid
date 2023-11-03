@@ -1,3 +1,10 @@
+## [1.7.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.2...v1.7.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([d57bf98](https://github.com/CoCreate-app/CoCreate-uuid/commit/d57bf9860fd3a9b52737585914fe7fb86b468b09))
+
 ## [1.7.2](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.1...v1.7.2) (2023-09-18)
 
 
