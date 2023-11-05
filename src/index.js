@@ -40,8 +40,7 @@
         },
 
         generate: function (length = 36) {
-            let d = new Date().getTime();
-            let d2 = (wnd.performance && wnd.performance.now && (wnd.performance.now() * 1000)) || 0;
+            let d = new Date(new Date().toISOString()).getTime();
             let pattern = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';
 
             if (length <= pattern.length) {
@@ -65,9 +64,6 @@
                 if (d > 0) {
                     var r = (d + r) % 16 | 0;
                     d = Math.floor(d / 16);
-                } else {
-                    var r = (d2 + r) % 16 | 0;
-                    d2 = Math.floor(d2 / 16);
                 }
                 return (c == 'x' ? r : (r & 0x7 | 0x8)).toString(16);
             });
