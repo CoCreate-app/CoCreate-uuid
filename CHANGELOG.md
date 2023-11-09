@@ -1,3 +1,12 @@
+## [1.7.4](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.3...v1.7.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* getTime() will be in ISO UTC timezone ([d8b14ce](https://github.com/CoCreate-app/CoCreate-uuid/commit/d8b14cec36b454f25fe171956ade90d2476bdf3e))
+* meta name typo ([8530953](https://github.com/CoCreate-app/CoCreate-uuid/commit/8530953343c3e155cfd3e3b15ed9991b0e672542))
+* update host ([d1aca2b](https://github.com/CoCreate-app/CoCreate-uuid/commit/d1aca2bfaf87df77557d9a6222105400e621b6fc))
+
 ## [1.7.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.2...v1.7.3) (2023-11-03)
 
 
