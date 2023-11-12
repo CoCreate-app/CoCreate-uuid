@@ -40,36 +40,22 @@
         },
 
         generate: function (length = 36) {
-            let d = new Date(new Date().toISOString()).getTime();
             let pattern = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';
-
-            if (length <= pattern.length) {
-                pattern = pattern.substring(0, length);
-            } else {
-                let add_len = length - pattern.length;
-                let sub_pattern = "-xxxyyxxx";
-
-                let group_n = Math.floor(add_len / sub_pattern.length);
-
-                for (let i = 0; i < group_n; i++) {
-                    pattern += sub_pattern;
-                }
-
-                group_n = add_len - group_n * sub_pattern.length;
-                pattern += sub_pattern.substring(0, group_n);
+            if (length > 36) {
+                length = 36; // If requested length is more than 36, set it to 36.
             }
 
             let uuid = pattern.replace(/[xy]/g, function (c) {
-                var r = Math.random() * 16;
-                if (d > 0) {
-                    var r = (d + r) % 16 | 0;
-                    d = Math.floor(d / 16);
-                }
-                return (c == 'x' ? r : (r & 0x7 | 0x8)).toString(16);
-            });
+                var r = (Math.random() * 16) | 0;
+                var v = c === 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            }).substring(0, length); // Truncate to the requested length.
+
+            console.log(uuid); // For testing, log the generated UUID to the console.
             return uuid;
         },
     }
+
     CoCreateUUID.init();
 
     return CoCreateUUID;
