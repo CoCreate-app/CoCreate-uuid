@@ -51,7 +51,6 @@
                 return v.toString(16);
             }).substring(0, length); // Truncate to the requested length.
 
-            console.log(uuid); // For testing, log the generated UUID to the console.
             return uuid;
         },
     }
