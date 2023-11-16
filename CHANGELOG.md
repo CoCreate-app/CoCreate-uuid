@@ -1,3 +1,11 @@
+## [1.7.6](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.5...v1.7.6) (2023-11-16)
+
+
+### Bug Fixes
+
+* removed console.log ([9b26a05](https://github.com/CoCreate-app/CoCreate-uuid/commit/9b26a05f886dba7d8cd87d1c0a80f2e03920c053))
+* uuid formating ([19daf50](https://github.com/CoCreate-app/CoCreate-uuid/commit/19daf501f39af0a72a469d7d22fb952fb74f2183))
+
 ## [1.7.5](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.4...v1.7.5) (2023-11-12)
 
 
