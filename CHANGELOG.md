@@ -1,3 +1,16 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.8.0...v1.9.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* pass attributes renamed to state ([2300c30](https://github.com/CoCreate-app/CoCreate-uuid/commit/2300c30e08a6390d28d49ac775abae7c0f0faac1))
+* update nav, edit button and css path ([d8e9652](https://github.com/CoCreate-app/CoCreate-uuid/commit/d8e9652ff29689c4eb1d5d176f3c8a76ca4ffd3a))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([f1a30fe](https://github.com/CoCreate-app/CoCreate-uuid/commit/f1a30fecec799c2dbf956445bb0b4bb782b0aa8b))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.7.6...v1.8.0) (2023-11-19)
 
 
