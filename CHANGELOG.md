@@ -1,3 +1,10 @@
+## [1.11.6](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.11.5...v1.11.6) (2024-07-09)
+
+
+### Bug Fixes
+
+* remove commented and dead code ([50b10aa](https://github.com/CoCreate-app/CoCreate-uuid/commit/50b10aaa04b6621dc669f69ab25398ea532e4323))
+
 ## [1.11.5](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.11.4...v1.11.5) (2024-06-23)
 
 
