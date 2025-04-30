@@ -1,3 +1,13 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.12.0...v1.12.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([3db91c3](https://github.com/CoCreate-app/CoCreate-uuid/commit/3db91c3f220c53750b60021b10e241fd3179fd90))
+* update query attributes ([5bdcab6](https://github.com/CoCreate-app/CoCreate-uuid/commit/5bdcab6e4d2ce3d36ca6878656f6f6a13a2159b8))
+* updated cocreate modules versions ([915507e](https://github.com/CoCreate-app/CoCreate-uuid/commit/915507e8ac6aaf6076d5f4c07dd2f67afa279e86))
+* webpack.config and devdependencies ([0c62161](https://github.com/CoCreate-app/CoCreate-uuid/commit/0c6216175e1c3d0b752693c40e6a85dd1b15350a))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.11.6...v1.12.0) (2024-11-04)
 
 
