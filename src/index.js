@@ -27,11 +27,12 @@
             elements.forEach(el => {
                 const len = parseInt(el.getAttribute(self.attribute)) || 36;
                 const uuid = self.generate(len)
-                if (el.tagName === "INPUT" || el.tagName === "TEXTAREA") {
-                    el.value = uuid;
-                } else {
-                    el.innerHTML = uuid;
-                }
+                el.setValue(uuid)
+                // if (el.tagName === "INPUT" || el.tagName === "TEXTAREA") {
+                //     el.value = uuid;
+                // } else {
+                //     el.innerHTML = uuid;
+                // }
             })
         },
 
