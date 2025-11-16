@@ -1,3 +1,10 @@
+## [1.12.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.12.2...v1.12.3) (2025-11-16)
+
+
+### Bug Fixes
+
+* streamline UUID assignment in init function ([637885c](https://github.com/CoCreate-app/CoCreate-uuid/commit/637885cf85de67d503904e86157ae857d3d0c029))
+
 ## [1.12.2](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.12.1...v1.12.2) (2025-05-01)
 
 
