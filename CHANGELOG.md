@@ -1,3 +1,10 @@
+## [1.12.4](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.12.3...v1.12.4) (2026-02-04)
+
+
+### Bug Fixes
+
+* update worklow ([abf22c7](https://github.com/CoCreate-app/CoCreate-uuid/commit/abf22c7eb967205288a43954e071913494ea40a8))
+
 ## [1.12.3](https://github.com/CoCreate-app/CoCreate-uuid/compare/v1.12.2...v1.12.3) (2025-11-16)
 
 
